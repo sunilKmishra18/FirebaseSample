@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1098351847174",
+    "firebase_url": "https://fir-inappmessagingdemo-3dcb9.firebaseio.com",
+    "project_id": "fir-inappmessagingdemo-3dcb9",
+    "storage_bucket": "fir-inappmessagingdemo-3dcb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098351847174:android:9dbdafd78e0aaec0",
+        "android_client_info": {
+          "package_name": "com.sunilmishra.android.firebaseinappmessagingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098351847174-l52r3qk8rivqpjjqcv0s5ehjgj8g8rqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPQFtlUglE_ObM5yxa586mh1bRHs0dlyY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
