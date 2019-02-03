@@ -19,17 +19,17 @@
           "client_type": 1,
           "android_info": {
             "package_name": "com.sunilmishra.android.firebasecloudstoragedemo",
-            "certificate_hash": "9a58581cddba3bbdbcc5f42e264ede817ac5ecf4"
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "143034883810-dv7p4r55kbvcmhstvgqrp0qjefq511g8.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD_RBvG5nTUhG-3MbXK3bVfICR2QvCsvHE"
+          "current_key": ""
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "143034883810-dv7p4r55kbvcmhstvgqrp0qjefq511g8.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
